@@ -1,0 +1,12 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100px" height="100px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="#ffffff" data-darkreader-inline-fill="" style="--darkreader-inline-fill: #c5c3c1; --darkreader-inline-stroke: #c5c3c1;" stroke="#ffffff" data-darkreader-inline-stroke="">
+
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g id="SVGRepo_iconCarrier"> <defs> <style>.cls-1{fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.2;}</style>
+
+<style class="darkreader darkreader--sync" media="screen"/> </defs> <title/> <g id="cross"> <line class="cls-1" x1="7" x2="25" y1="7" y2="25"/> <line class="cls-1" x1="7" x2="25" y1="25" y2="7"/> </g> </g>
+
+</svg>
